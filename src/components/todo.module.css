@@ -1,0 +1,49 @@
+.root {
+  display: grid;
+}
+
+.container {
+  display: flex;
+  gap: 8px;
+}
+
+.input {
+  width: 250px;
+  padding: 3px 3px;
+  outline: none;
+  height: fit-content;
+}
+
+.itemText {
+  margin: 0;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.button {
+  height: 25px;
+  width: 60px;
+}
+
+.items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.listItem {
+  display: flex;
+  gap: 8px;
+}
+
+.removeItem {
+  color: #f00;
+  margin-top: -2px;
+  cursor: pointer;
+}
+
+.tasksNotFound {
+  padding-top: 10px;
+  font-style: italic;
+}
