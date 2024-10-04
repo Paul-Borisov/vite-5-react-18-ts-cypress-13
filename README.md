@@ -1,6 +1,6 @@
 # Overview
 
-This is an educational project shared with my colleagues. It explains how to start working with Cypress E2E testing in Vite + React projects.
+This is an educational project for my colleagues. It explains how to start working with Cypress E2E testing in Vite + React projects.
 
 - The codebase uses a sample Todo list to demostrate diverse testing options of Cypress.
 
